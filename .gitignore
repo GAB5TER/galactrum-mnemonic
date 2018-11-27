@@ -1,6 +1,7 @@
 *.sw[a-z]
 coverage
 node_modules
+v8-compile-cache-0/
 
 # build artifacts directory
 dist/
