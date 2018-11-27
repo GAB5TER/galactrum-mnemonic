@@ -2,7 +2,7 @@
 
 > BIP39 Mnemonics for Galactrum
 
-A module for [galactrum.js](https://github.com/galactrum/galactrum.js) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
+A module for [galactrum-lib](https://github.com/GAB5TER/galactrum-lib) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
 ## Usage
 

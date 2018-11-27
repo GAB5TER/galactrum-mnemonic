@@ -48,7 +48,7 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "galactrum.js": "galactrum/galactrum.js",
+    "galactrum-lib": "GAB5TER/galactrum-lib",
     "unorm": "^1.4.1"
   }
 }
