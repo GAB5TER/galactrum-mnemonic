@@ -1,5 +1,5 @@
 {
-  "name": "@galactrum/galactrum-mnemonic",
+  "name": "galactrum-mnemonic",
   "version": "1.6.0",
   "description": "BIP39 Mnemonics for Orecore",
   "author": "Galactrum Development Team",
