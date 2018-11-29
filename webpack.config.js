@@ -6,6 +6,6 @@ module.exports = {
   output: {
     library: 'galactrumMnemonic',
     path: path.resolve(__dirname, 'dist'),
-    filename: 'galactrum-mnemonic.js'
+    filename: 'orecore-mnemonic.js'
   }
 };
