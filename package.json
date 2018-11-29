@@ -1,7 +1,7 @@
 {
   "name": "@galactrum/galactrum-mnemonic",
   "version": "1.6.0",
-  "description": "BIP39 Mnemonics for Galactrum",
+  "description": "BIP39 Mnemonics for Orecore",
   "author": "Galactrum Development Team",
   "main": "index.js",
   "scripts": {
