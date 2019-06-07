@@ -1,6 +1,6 @@
 {
   "name": "orecore-mnemonic",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "BIP39 Mnemonics for Orecore",
   "author": "Galactrum Development Team",
   "main": "index.js",
@@ -28,7 +28,7 @@
     "url": "https://github.com/GAB5TER/orecore-mnemonic.git"
   },
   "keywords": [
-    "bitcore",
+    "orecore",
     "mnemonic",
     "crypto",
     "cryptography",
@@ -48,7 +48,6 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "orecore-lib": "GAB5TER/orecore-lib",
-    "unorm": "^1.4.1"
+    "orecore-lib": "GAB5TER/orecore-lib"
   }
 }

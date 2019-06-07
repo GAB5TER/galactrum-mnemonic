@@ -1,5 +1,9 @@
 # orecore-mnemonic
 
+## Note: This package has been deprecated
+
+This module is superceded the functionality in orecore-lib, please use that package moving forward.
+
 > BIP39 Mnemonics for Galactrum
 
 A module for [orecore-lib](https://github.com/GAB5TER/orecore-lib) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
